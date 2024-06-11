@@ -1,0 +1,10 @@
+The main principles of 
+OOPs in Java are 
+encapsulation, inheritance, 
+polymorphism, and abstraction. 
+Encapsulation ensures that the internal 
+state of an object is hidden and 
+can only be accessed through public methods. 
+Inheritance allows one 
+class to inherit properties and behavior from another.
+Radhika

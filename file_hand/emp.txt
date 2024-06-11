@@ -1,0 +1,8 @@
+employee 1 details 
+Name : Radhika
+Id Number : <built-in function id>
+Designation : cs
+employee 2 details 
+Name : Rohini
+Id Number : <built-in function id>
+Designation : ss
